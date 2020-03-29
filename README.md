@@ -7,7 +7,7 @@ Expenses planner is a manager for your personal finances. It can help you keep t
 <img src="assets/images/Screenshot_1585439981.png" width="300" height="600"> <img src="assets/images/Screenshot_1585440015.png" width="300" height="600"> 
 <img src="assets/images/Screenshot_1585440032.png" width="300" height="600"> 
 ### Landscape
-<img src="assets/images/Screenshot_1585440043.png"> <img src="Screenshot_1585440051.png" > 
+<img src="assets/images/Screenshot_1585440043.png"> <img src="assets/images/Screenshot_1585440051.png" > 
 
 
 
